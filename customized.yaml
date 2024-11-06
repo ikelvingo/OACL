@@ -1,0 +1,7 @@
+payload:
+  # 内容：customized
+  - DOMAIN-KEYWORD,relingo
+  - DOMAIN-KEYWORD,heptabase
+  - DOMAIN-SUFFIX,relingo.net
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,heptabase.com
