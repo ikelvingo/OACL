@@ -1,5 +1,5 @@
 payload:
-  # 内容：customized
+  # 内容：customized proxy webservice
   - DOMAIN-KEYWORD,relingo
   - DOMAIN-KEYWORD,heptabase
   - DOMAIN-SUFFIX,relingo.net
