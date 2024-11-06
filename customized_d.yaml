@@ -1,1 +1,7 @@
-
+payload:
+  # 内容：customized direct webservice
+  - DOMAIN-KEYWORD,huawei
+  - DOMAIN-KEYWORD,harmonyos
+  - DOMAIN-SUFFIX,huawei.com
+  - DOMAIN-SUFFIX,huawei.com.cn
+  - DOMAIN-SUFFIX,harmonyos.com
