@@ -1,5 +1,14 @@
 payload:
   # 内容：customized direct webservice
+  #Plex direct connect start
+  - DOMAIN,v4.plex.tv
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,plex.direct
+  - IP-CIDR,20.187.186.89/32,no-resolve
+  - IP-CIDR,108.128.23.124/32,no-resolve
+  - IP-CIDR,52.18.122.31/32,no-resolve
+  #Plex derect connect end
+  - DST-PORT,32400,DIRECT
   - DOMAIN-KEYWORD,huawei
   - DOMAIN-KEYWORD,harmonyos
   - DOMAIN-SUFFIX,huawei.com
