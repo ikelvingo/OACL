@@ -1,0 +1,27 @@
+payload:
+  # 内容：microsoft代理最小化，现有多数规则会导致ms在国内部分服务，如“手机连接”无法使用，仅收集国内无法访问部分地址，或访问明显较慢部分地址，采用itdog验证
+  - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,hotmail.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,lync.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,skypeforbusiness.com
+  - DOMAIN-SUFFIX,sway.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,uservoice.com
+  - DOMAIN-SUFFIX,virtualearth.net
+  - DOMAIN,access-point.cloudmessaging.edge.microsoft.com
+  - DOMAIN,sydney.bing.com
+  - DOMAIN,browser.pipe.aria.microsoft.com
+  - DOMAIN,www.bingapis.com
+  - DOMAIN,events.data.microsoft.com
+  - DOMAIN,prod.do.dsp.mp.microsoft.com
+  - DOMAIN,functional.events.data.microsoft.com
+  - DOMAIN,designer.microsoft.com
+  - DOMAIN,edge.microsoft.com
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN,edgeservices.bing.com
