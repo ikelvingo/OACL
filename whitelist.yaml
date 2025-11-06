@@ -1,0 +1,12 @@
+payload:
+  # 内容：特殊白名单，保证部分ms中国区服务和自建服务正常
+  # This is Microsoft services in China
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,events.data.microsoft.com
+  - DOMAIN,functional.events.data.microsoft.com
+  - DOMAIN,edgeservices.bing.com
+  #This is Self-hosted Services
+  - DOMAIN,affine.pro,VPS
+  - DOMAIN,v4.plex.tv,DIRECT
+  - DOMAIN,amazonaws.com,DIRECT
+  - DOMAIN,plex.direct,DIRECT
