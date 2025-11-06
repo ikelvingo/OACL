@@ -8,20 +8,20 @@ payload:
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,skypeforbusiness.com
-  - DOMAIN-SUFFIX,sway.com
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,uservoice.com
-  - DOMAIN-SUFFIX,virtualearth.net
-  - DOMAIN,access-point.cloudmessaging.edge.microsoft.com
-  - DOMAIN,sydney.bing.com
-  - DOMAIN,browser.pipe.aria.microsoft.com
-  - DOMAIN,www.bingapis.com
-  - DOMAIN,events.data.microsoft.com
-  - DOMAIN,prod.do.dsp.mp.microsoft.com
-  - DOMAIN,functional.events.data.microsoft.com
-  - DOMAIN,designer.microsoft.com
-  - DOMAIN,edge.microsoft.com
-  - DOMAIN,copilot.microsoft.com
-  - DOMAIN,edgeservices.bing.com
+  # - DOMAIN-SUFFIX,sharepoint.com
+  # - DOMAIN-SUFFIX,skypeforbusiness.com
+  # - DOMAIN-SUFFIX,sway.com
+  # - DOMAIN-SUFFIX,visualstudio.com
+  # - DOMAIN-SUFFIX,uservoice.com
+  # - DOMAIN-SUFFIX,virtualearth.net
+  # - DOMAIN,access-point.cloudmessaging.edge.microsoft.com
+  # - DOMAIN,sydney.bing.com
+  # - DOMAIN,browser.pipe.aria.microsoft.com
+  # - DOMAIN,www.bingapis.com
+  # - DOMAIN,events.data.microsoft.com
+  # - DOMAIN,prod.do.dsp.mp.microsoft.com
+  # - DOMAIN,functional.events.data.microsoft.com
+  # - DOMAIN,designer.microsoft.com
+  # - DOMAIN,edge.microsoft.com
+  # - DOMAIN,copilot.microsoft.com
+  # - DOMAIN,edgeservices.bing.com
