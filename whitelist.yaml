@@ -6,7 +6,6 @@ payload:
   - DOMAIN,functional.events.data.microsoft.com
   - DOMAIN,edgeservices.bing.com
   #This is Self-hosted Services
-  - DOMAIN,affine.pro,VPS
   - DOMAIN,v4.plex.tv,DIRECT
   - DOMAIN,amazonaws.com,DIRECT
   - DOMAIN,plex.direct,DIRECT
