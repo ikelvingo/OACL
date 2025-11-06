@@ -7,5 +7,5 @@ payload:
   - DOMAIN,edgeservices.bing.com
   #This is Self-hosted Services
   - DOMAIN,v4.plex.tv,DIRECT
-  - DOMAIN,amazonaws.com,DIRECT
-  - DOMAIN,plex.direct,DIRECT
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,plex.direct
